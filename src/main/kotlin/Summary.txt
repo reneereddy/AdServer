@@ -1,0 +1,16 @@
+Your answers here should be to the coding part of the assignment only.
+
+How much time did you spend on the assignment?
+4 hours
+
+Who did you work with and how?
+I worked with Richa to clarify the first few questions.
+
+What resources did you use, and which ones were helpful/unhelpful?
+N/A
+
+Give a few sentences reflecting on your experience with the assignment,
+such as whether you found it useful, boring, helpful, confusing, and why.
+Suggestions for improving it are always welcome.
+I found this assignment to be very confusing, but it helped to clarify the uses of while and "->".
+I think clearer instructions would help.
